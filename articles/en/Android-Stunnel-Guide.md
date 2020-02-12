@@ -19,8 +19,6 @@ If you require further assistance contact the support team @ [Discord](https://d
 
 ### Section A: Download and Install Veles Stunnel
 
-> OpenVPN needs administrative privileges to install.
-
 ***Step 1***
 * Open the Google Play Store. Search for and install **Veles Stunnel**, the official Veles Stunnel application.
 ***
