@@ -5,8 +5,8 @@ This will guide you through the process of installing and using Tunnelblick on t
 If you require further assistance contact the support team @ [Discord](https://discord.gg/P528fGg)
 
 ## Requirements
-1) Install Tunnelblick Client
-2) Download Veles OpenVPN config
+1) **Install Tunnelblick Client**
+2) **Download Veles OpenVPN config**
 ***
 
 ## Contents

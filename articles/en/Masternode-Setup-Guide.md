@@ -37,7 +37,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 
 
 ***Step 1***
-* Open the bitvise application and fill in the "Hostname" box with the IP of your VPS
+* Open the bitvise application and fill in the **"Hostname"** box with the **IP of your VPS**
 
 ![Example-PuttyInstaller](https://i.imgur.com/vkN1alC.png)
 ***
@@ -49,7 +49,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 ***
 
 ***Step 3***
-* Type "root" as the login/username
+* Type **"root"** as the login/username
 
 ![Example-Root](https://i.imgur.com/11GMkvA.png)
 ***
@@ -62,11 +62,11 @@ If you require further assistance contact the support team @ [Discord](https://d
 
 ***Step 5*** 
 * Once you have clicked open it will open a security alert (click yes) 
+
 ***
 
 ***Step 6***
 * Paste the code below into the Bitvise terminal then press enter and wait
-***
 `source <(curl -s https://raw.githubusercontent.com/velescore/veles-installer/master/masternode.sh)`
 
 ![Example-RootPassEnter](https://i.imgur.com/oOrVgXI.png?1)
@@ -81,22 +81,19 @@ If you require further assistance contact the support team @ [Discord](https://d
 ### Section C: Preparing the Local wallet
 
 ***Step 1***
-* Download and install the Veles wallet [here](https://veles.network/download.html)
+* Download and install the **Veles wallet** [here](https://veles.network/download.en.html)
+
 ***
 
 ***Step 2***
 * Generate new address through debug console with command 
 `getnewaddress "MN1" "legacy"` 
-* Send exactly 500 VLS to the address you generated on your local wallet
+* Send exactly **500 VLS** to the address you generated on your local wallet
 
 ![Example-console](https://i.imgur.com/PYAnCaX.png)
 ***
 
 ***Step 3***
-* Create a text document to temporarily store information that you will need 
-***
-
-***Step 5***
 * Go to the console within the wallet 
 * Type the command below and press enter 
 
@@ -105,15 +102,17 @@ If you require further assistance contact the support team @ [Discord](https://d
 ![Example-outputs](https://i.imgur.com/FvWbqti.png)
 ***
 
-***Step 6***
+***Step 4***
 * Copy the transaction ID and output index
 * Paste these into the text document you created earlier as you will need them in the next step
+
 ***
 
 ### Section D: Connecting & Starting the masternode 
 
 ***Step 1***
-* Go to the *"tools"* tab within the wallet and click open *"masternode configuration file"* 
+* Go to the **"tools"** tab within the wallet and click open **"masternode configuration file"** 
+
 ***
 
 ***Step 2***
@@ -127,14 +126,15 @@ If you require further assistance contact the support team @ [Discord](https://d
 
 ![Example-create](https://i.imgur.com/rLcd0gl.png?1)
 
-Click "File Save"
+Click **"File Save"**
+
 ***
 
 ***Step 3***
 * Close out of the wallet and reopen Wallet
-* Click on the Masternodes tab "My masternodes"
-* Check if your Masternode collateral transaction have 16 confirmations
-* Click start alias in the masternodes tab
+* Click on the Masternodes tab **"My masternodes"**
+* Check if your Masternode collateral transaction have **16 confirmations**
+* Click **"start alias"** in the masternodes tab
 
 ![Example-create](https://i.imgur.com/y5pAkqi.png)
 
@@ -163,6 +163,6 @@ Also, if you want to check/start/stop Veles, run one of the following commands a
 * `systemctl is-enabled veles.service` #To check if Veles service is enabled on boot
 
 ![Example-create](https://i.imgur.com/exyldVP.png?1)
+***
 
 If you do, congratulations! You have now setup a masternode. If you do not, please contact support and they will assist you.  
-***
