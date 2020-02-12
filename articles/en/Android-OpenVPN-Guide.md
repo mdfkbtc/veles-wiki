@@ -18,12 +18,8 @@ If you require further assistance contact the support team @ [Discord](https://d
 
 ### Section A: Download and Install OpenVPN
 
-> OpenVPN needs administrative privileges to install.
-
 ***Step 1***
-* The OpenVPN client application for Windows can be found on [OpenVPN’s Downloads page](https://openvpn.net/community-downloads/). Choose the appropriate installer version for your version of Windows.  
-https://openvpn.net/community-downloads/
- 
+* Open the Google Play Store. Search for and install **Android OpenVPN Connect**, the official Android OpenVPN client application.
 ***
 
 ### Section B: Configure OpenVPN
@@ -33,11 +29,11 @@ https://openvpn.net/community-downloads/
 https://explorer.veles.network/dapi/getOpenVPNConfig
 
 ***Step 2***
-* Start the OpenVPN app and tap the menu to Import the profile.
+* Start the OpenVPN app and tap the menu to **Import** the profile.
 ***
 
 ***Step 3***
-*Then navigate to the location of the saved profile and select the file. The app will make a note that the profile was imported.
+* Then navigate to the location of the saved profile and select the file. The app will make a note that the profile was imported.
 ***
 
 ### Section C: Connect to Veles d-VPN 
