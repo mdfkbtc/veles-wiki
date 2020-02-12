@@ -18,6 +18,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 
 ### Section A: Download and Install Shadowsocks
 
+***Step 1***
 * On Ubuntu or Debian, you can install it by typing:  
 `sudo apt install shadowsocks`  
 * On CentOS you can enable the EPEL repositories and then install it by typing:  
@@ -27,6 +28,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 `pip install shadowsocks`  
 * On Arch Linux you can install it by typing:  
 `pacman -S shadowsocks-libev`  
+***
 
 ### Section B: Configure Shadowsocks 
 
