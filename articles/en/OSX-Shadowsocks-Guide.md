@@ -68,7 +68,7 @@ https://explorer.veles.network/dapi/getShadowsocksConfig
 ***Step 1***
 * Once everything is installed, a simple check confirms everything is working properly. Without having a Shadowsocks connection enabled, open a browser and go to [DNSLeakTest](https://www.dnsleaktest.com/).
 The site will return the IP address assigned by your internet service provider and as you appear to the rest of the world. To check your DNS settings through the same website, click on Extended Test and it will tell you which DNS servers you are using.
-Now connect to your Shadowsocks client and refresh the browser. The completely different IP address of your VPN server should now appear. That is now how you appear to the world. Again, [DNSLeakTest's](https://www.dnsleaktest.com/) **Extended Test** will check your DNS settings and confirm you are now using the DNS resolvers pushed by Veles dVPN.
+Now connect to your Shadowsocks client and refresh the browser. The completely different IP address of your Shadowsocks server should now appear. That is now how you appear to the world. Again, [DNSLeakTest's](https://www.dnsleaktest.com/) **Extended Test** will check your DNS settings and confirm you are now using the DNS resolvers pushed by Veles dVPN.
 ***
 
 If you do, congratulations! You have now setup a Veles d-VPN . If you do not, please contact support on [Discord](https://discord.gg/P528fGg) and they will assist you.  
