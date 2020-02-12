@@ -31,6 +31,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 
 ***Step 1***
 * Download BitVise [here](https://dl.bitvise.com/BvSshClient-Inst.exe)
+
 ***
 
 ### Section B: Connecting to the VPS & Installing the MN script via Bitvise
